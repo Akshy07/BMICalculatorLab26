@@ -11,7 +11,7 @@ using System.Windows.Forms;
 /* Name: Akshay Patel
  * Date: 04/08/2017
  * Description: Creation of BMICalculator
- * Version 0.1 - Added radio buttons.
+ * Version 0.3 - Created the calculator design.
  */
 
 namespace Calculator
@@ -21,6 +21,11 @@ namespace Calculator
         public BMICalculator()
         {
             InitializeComponent();
+        }
+
+        private void metricRadioButton_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
