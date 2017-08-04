@@ -7,7 +7,7 @@ using System.Windows.Forms;
 /* Name: Akshay Patel
  * Date: 04/08/2017
  * Description: Creation of BMICalculator
- * Version 0.1 - created calculator.
+ * Version 0.2 - Added radio buttons.
  */
 
 namespace Calculator
